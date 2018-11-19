@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.android\build-cache\f07ab17a9ea74f06aeb51dc7e4e6518c12813853\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="abeff860f55e6b771b5053b593886c20bbc3fe84">
+        <dex dex="G:\Nandhu\Hypercart\app\build\intermediates\pre-dexed\debug\classes_a8014ef737754e837c96b95a39e68c076f76a2aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.android\build-cache\d86a4b289151462c140204333c7ebbc04380fb6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="70b67f2650c5f35968b07989e49cc7a1c9cd3348">
+        <dex dex="G:\Nandhu\Hypercart\app\build\intermediates\pre-dexed\debug\classes_2831190d3b348482de8418738be9e8d64401bae4.jar" />
+    </item>
+
+</items>
