@@ -19,5 +19,14 @@
         sha1="70b67f2650c5f35968b07989e49cc7a1c9cd3348">
         <dex dex="G:\Nandhu\Hypercart\app\build\intermediates\pre-dexed\debug\classes_2831190d3b348482de8418738be9e8d64401bae4.jar" />
     </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.android\build-cache\aebad7815173c844edffa9b16f8fb916893fe21e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6edd727c4a547062e09aef0ba40f1c124368ee3f">
+        <dex dex="G:\Nandhu\Hypercart\app\build\intermediates\pre-dexed\debug\classes_9ece0355e01e6fcd0a3e57cafe7f899888ede28f.jar" />
+    </item>
 
 </items>

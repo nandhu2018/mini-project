@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="android-about-page-1.2.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/aebad7815173c844edffa9b16f8fb916893fe21e/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/aebad7815173c844edffa9b16f8fb916893fe21e/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.medyo/android-about-page/1.2.4/7a1fde305f23bc3097ca3619a638418aab5f1911/android-about-page-1.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

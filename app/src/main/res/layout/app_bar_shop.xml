@@ -41,7 +41,7 @@
             <com.mikhaellopez.circularimageview.CircularImageView
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:background="@drawable/stock"
+                android:background="@drawable/cart3"
                 android:layout_gravity="center"
                 app:civ_border_color="#8BC34A"
                 app:civ_border_width="4dp"
@@ -68,7 +68,7 @@
             <com.mikhaellopez.circularimageview.CircularImageView
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:background="@drawable/stock1"
+                android:background="@drawable/stock3"
                 app:civ_border_color="#8BC34A"
                 app:civ_border_width="4dp"
                 app:civ_shadow="true"
@@ -95,7 +95,7 @@
             <com.mikhaellopez.circularimageview.CircularImageView
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:background="@drawable/purchases"
+                android:background="@drawable/pending1"
                 app:civ_border_color="#8BC34A"
                 app:civ_border_width="4dp"
                 android:layout_gravity="center"
