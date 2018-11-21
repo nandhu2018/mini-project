@@ -124,6 +124,7 @@
     <orderEntry type="library" exported="" name="design-27.1.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="javax.annotation-api-1.2" level="project" />
     <orderEntry type="library" exported="" name="transition-27.1.0" level="project" />
+    <orderEntry type="library" exported="" name="smsverifycatcher-0.3.2" level="project" />
     <orderEntry type="library" exported="" name="firebase-iid-17.0.3" level="project" />
     <orderEntry type="library" exported="" name="zxing-1.9.8" level="project" />
     <orderEntry type="library" exported="" name="livedata-core-1.1.0" level="project" />
